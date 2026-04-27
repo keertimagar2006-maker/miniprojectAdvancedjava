@@ -7,3 +7,5 @@
 1d.java op : https://github.com/keertimagar2006-maker/miniprojectAdvancedjava/blob/c72346f235dfb83f78a28a78588761bfd5633416/1d.png
 
 1e.java op : https://github.com/keertimagar2006-maker/miniprojectAdvancedjava/blob/4b657d33cbd1da7f0190a38db3125a70ebd41c89/1e.png
+
+1f.java op : https://github.com/keertimagar2006-maker/miniprojectAdvancedjava/blob/8c4b08d77047ae1a0d6b6428f7cd2db32c0140c5/1f.png
