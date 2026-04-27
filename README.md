@@ -1,3 +1,5 @@
 1a.java op : https://github.com/keertimagar2006-maker/miniprojectAdvancedjava/blob/3091ac2cfbc266172cc0e1b1a4e27455adf6fb7a/1a.png
 
 1b.java op : https://github.com/keertimagar2006-maker/miniprojectAdvancedjava/blob/148d58d01e4494c2adc7ac0f564c4bca51793f06/1b.png
+
+1c.java op : https://github.com/keertimagar2006-maker/miniprojectAdvancedjava/blob/96bb70f7a3d897dfa5ca0fd39fd7a2e79e3cf295/1c.png
