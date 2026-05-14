@@ -21,3 +21,5 @@ a4.java op:https://github.com/keertimagar2006-maker/miniprojectAdvancedjava/blob
 a5.java op:https://github.com/keertimagar2006-maker/miniprojectAdvancedjava/blob/4ac24386cce5639ba41f93e0333408a8d1b0a545/a5.png
 
 a6.java op:https://github.com/keertimagar2006-maker/miniprojectAdvancedjava/blob/29aeda313b8aa3f8ebf37ebf305d3666eaed1858/a6.png
+
+a7.java op:https://github.com/keertimagar2006-maker/miniprojectAdvancedjava/blob/38a0aa5d7bee4e084ae7622b8713c7a5245f3810/a7.png
